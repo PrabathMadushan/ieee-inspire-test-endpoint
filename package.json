@@ -1,0 +1,19 @@
+{
+  "name": "iee-inspire-test-end-point",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrabathMadushan/ieee-inspire-test-endpoint.git"
+  },
+  "author": "prabath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrabathMadushan/ieee-inspire-test-endpoint/issues"
+  },
+  "homepage": "https://github.com/PrabathMadushan/ieee-inspire-test-endpoint#readme"
+}
